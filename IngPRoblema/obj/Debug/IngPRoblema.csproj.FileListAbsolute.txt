@@ -1,0 +1,7 @@
+C:\Users\johan\Documents\Visual Studio 2017\Projects\IngPRoblema\IngPRoblema\bin\Debug\IngPRoblema.exe.config
+C:\Users\johan\Documents\Visual Studio 2017\Projects\IngPRoblema\IngPRoblema\bin\Debug\IngPRoblema.exe
+C:\Users\johan\Documents\Visual Studio 2017\Projects\IngPRoblema\IngPRoblema\bin\Debug\IngPRoblema.pdb
+C:\Users\johan\Documents\Visual Studio 2017\Projects\IngPRoblema\IngPRoblema\obj\Debug\IngPRoblema.csprojResolveAssemblyReference.cache
+C:\Users\johan\Documents\Visual Studio 2017\Projects\IngPRoblema\IngPRoblema\obj\Debug\IngPRoblema.csproj.CoreCompileInputs.cache
+C:\Users\johan\Documents\Visual Studio 2017\Projects\IngPRoblema\IngPRoblema\obj\Debug\IngPRoblema.exe
+C:\Users\johan\Documents\Visual Studio 2017\Projects\IngPRoblema\IngPRoblema\obj\Debug\IngPRoblema.pdb
